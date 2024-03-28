@@ -25,3 +25,9 @@ This repository contains code for benchmarking GPU performance in image classifi
 
    ```bash
    git clone [https://github.com/yourusername/GPU_benchmarking_with_image_classification.git](https://github.com/AritraOfficial/GPU-Bench-Marking.git)
+
+## Acknowledgements
+This project is inspired by the need for efficient GPU selection for deep learning tasks.
+
+## Contributing
+Contributions are welcome! If you have ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.

@@ -24,4 +24,4 @@ This repository contains code for benchmarking GPU performance in image classifi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/GPU_benchmarking_with_image_classification.git
+   git clone [https://github.com/yourusername/GPU_benchmarking_with_image_classification.git](https://github.com/AritraOfficial/GPU-Bench-Marking.git)
